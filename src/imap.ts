@@ -6,8 +6,8 @@ const client = new ImapFlow({
   port: 993,
   secure: true,
   auth: {
-    user: "mirzaalexandrunicolae@outlook.com",
-    pass: "cnc36565",
+    user: "youremail@outlook.com",
+    pass: "password",
   },
   logger: false,
 });
